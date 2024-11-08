@@ -15,6 +15,9 @@ Outlier Detection: Applying statistical or machine learning methods to identify 
 
 In this analysis, the outlier score represents how significantly a polling unit's results deviate from the expected patterns.
 
+Python was the programming language used.
+
+
 # 2. Summary of Findings:
 
 The summary includes a sorted list of polling units by outlier scores for each party. Higher scores indicate greater deviation from the norm.
